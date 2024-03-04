@@ -1,0 +1,18 @@
+.labExp{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: stretch;
+    margin-bottom: 5rem;
+    padding-right: 3rem;  
+    padding-left: 3rem;  
+    color:white;
+
+}
+
+.subTLE{
+    padding-right: 1rem;
+    border-right: 2px solid white;
+    width: 200px;
+}
+

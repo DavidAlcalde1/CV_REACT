@@ -1,0 +1,28 @@
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; /* Centra horizontalmente el contenido */
+    /*height: 100vh;  Altura opcional para el contenedor, 100vh hace que ocupe toda la altura de la ventana */
+}
+
+.nombre{
+    display: flex;
+    font-size: 30px ;
+    font-weight: 800;
+    margin-top: 3rem;
+    margin-bottom: 0;
+    justify-content: center;   
+    align-items: center;
+}
+
+.carreer{
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 0;
+    margin-bottom: 2rem;
+    /* display:flex;
+    justify-content: center;
+    align-items: center; */
+}
+

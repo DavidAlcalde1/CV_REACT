@@ -1,0 +1,8 @@
+.photo{
+    display: flex;
+    margin-bottom:5rem;
+}
+
+.imagePhoto{
+    border-radius: .5rem;
+}

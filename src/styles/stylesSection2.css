@@ -1,0 +1,11 @@
+.section2{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    flex:1;
+    align-items: stretch;
+    color:white;
+    font-family:'Times New Roman', Times, serif;
+    padding-top: 5rem;
+    padding-right: 48px;
+}

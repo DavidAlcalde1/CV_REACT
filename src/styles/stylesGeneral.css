@@ -1,0 +1,10 @@
+html{
+    display: flex;
+}
+
+body{
+    background-color:rgba(7, 39, 49, 0.979);
+    display:flex;
+    justify-content:space-between;
+    margin: 2rem;
+}

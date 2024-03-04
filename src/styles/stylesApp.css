@@ -1,0 +1,16 @@
+.App{
+    display:flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: stretch; 
+}
+
+body{
+    background-color:rgba(7, 39, 49, 0.979);
+    display:flex;
+    /* justify-content:space-between; */
+    margin: 2rem;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-items: stretch; 
+}
