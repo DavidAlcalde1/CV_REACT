@@ -8,6 +8,7 @@ function Section1(){
         <div className='section1'>
             <Title/>
             <Photo/>
+            
         </div>
     )
 }

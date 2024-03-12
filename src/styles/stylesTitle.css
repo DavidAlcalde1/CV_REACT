@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center; /* Centra horizontalmente el contenido */
+    
     /*height: 100vh;  Altura opcional para el contenedor, 100vh hace que ocupe toda la altura de la ventana */
 }
 
@@ -14,6 +15,7 @@
     margin-bottom: 0;
     justify-content: center;   
     align-items: center;
+    color: #00FF04;
 }
 
 .carreer{

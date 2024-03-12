@@ -3,7 +3,7 @@ html{
 }
 
 body{
-    background-color:rgba(7, 39, 49, 0.979);
+    background-color:black;
     display:flex;
     justify-content:space-between;
     margin: 2rem;
