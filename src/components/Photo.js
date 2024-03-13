@@ -3,7 +3,7 @@ import {motion} from 'framer-motion'
 import '../styles/stylesPhoto.css';
 
 function Photo(){
-    const [isHovered, setIsHovered] = React.useState(false);
+    const [isHovered] = React.useState(false);
     
     return(
         <div className='photo'>
